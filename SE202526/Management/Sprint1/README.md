@@ -6,7 +6,7 @@
 
 ## Scrum master
 
-Student name and number
+Diogo Ribeiro - 67789
 
 ## Management info
 ### Sprint Planning Meeting: 

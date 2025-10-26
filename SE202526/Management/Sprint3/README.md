@@ -6,7 +6,7 @@
 
 ## Scrum master
 
-Student name and number
+Beatriz Ramos - 68030
 
 ## Management info
 ### Sprint Planning Meeting: 

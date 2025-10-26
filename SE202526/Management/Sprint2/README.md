@@ -6,7 +6,7 @@
 
 ## Scrum master
 
-Student name and number
+Inês Barata - 67794
 
 ## Management info
 ### Sprint Planning Meeting: 
